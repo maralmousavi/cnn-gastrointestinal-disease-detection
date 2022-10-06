@@ -22,3 +22,9 @@ Polyps            |  Ulcerative Colitis |  Dyed and Lifted Polyps |  Dyed Resect
 
 ### ROC-Curve
 ![Graph](https://github.com/maralmousavi/cnn-gastrointestinal-disease-detection/blob/master/images/ROC-Curve.png)
+ 
+## Collaborators
+- [Taher Fattahi](https://www.github.com/taherfattahi)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
